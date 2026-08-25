@@ -1,0 +1,10 @@
+1.buliding the simple cahtbot that is bringing the model and then invoking asking the query
+
+2.cinesage means 3 messages one system ai behaivour 
+ai response 
+human message so these will keep the ai previous queries and the cahtbot
+will become more engaging
+
+3.embedding 
+there is squence of text it is converted into the numbers so that computer 
+can understand it each sentence has 64 numbers different different
