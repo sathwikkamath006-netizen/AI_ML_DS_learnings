@@ -1,0 +1,17 @@
+document loading text spliting embeding genration-vector db creation
+
+1.document loading
+
+
+2..RETRIVAL
+mmr similarity mutiquery in this vector store content wiht that llm is also sent
+so u will get the better results
+
+Chroma.from_documents(
+    documents = docs,
+    embedding= embedding_model,
+    persist_directory= "chroma-db"
+
+)
+this will create the db ag=fter u can intercat with this thing
+
